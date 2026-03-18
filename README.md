@@ -21,13 +21,14 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL, com foco
 ---
 
 ## 📂 Estrutura do projeto
-
+```
 sales-data-analysis/
 │
 ├── dataset.csv        # Dados de vendas
 ├── queries.sql        # Consultas SQL
 ├── database.db        # Banco de dados SQLite
 └── README.md          # Documentação do projeto
+```
 
 ---
 
