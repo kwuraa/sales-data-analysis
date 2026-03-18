@@ -24,10 +24,13 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL, com foco
 ```
 sales-data-analysis/
 │
-├── dataset.csv        # Dados de vendas
-├── queries.sql        # Consultas SQL
-├── database.db        # Banco de dados SQLite
-└── README.md          # Documentação do projeto
+├── sql/
+│   ├── analysis_queries.sql             # Consultas de análise
+│   ├── create_tables.sql                # Criação das tabelas
+│   └── insert_data.sql                  # Inserção dos dados
+├── dataset.csv                          # Dados de vendas
+├── database.db                          # Banco de dados SQLite
+└── README.md                            # Documentação do projeto
 ```
 
 ---
@@ -56,6 +59,18 @@ sales-data-analysis/
 8. Quais são os 3 produtos mais vendidos?
 9. Qual é o produto menos vendido?
 10. Qual produto é mais vendido em cada cidade?
+
+---
+
+## 📊 Resultados
+
+- Total de vendas: **100**
+- Faturamento total: **R$ 5.825**
+- Ticket médio: **R$ 58,25**
+- Produto mais vendido: **Pasta**
+- Produto mais lucrativo: **Shampoo**
+- Cidade com maior volume de vendas: **SP**
+- Cidade com maior faturamento: **SP**
 
 ---
 
