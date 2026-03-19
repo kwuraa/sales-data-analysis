@@ -73,7 +73,7 @@ sales-data-analysis/
 - Total de vendas: **100**
 - Faturamento total: **R$ 5.825**
 - Ticket médio: **R$ 58,25**
-- Produto mais vendido: **Pasta**
+- Produto mais vendido: **shampoo**
 - Produto mais lucrativo: **Shampoo**
 - Cidade com maior volume de vendas: **MG**
 - Cidade com maior faturamento: **MG**
@@ -89,7 +89,6 @@ sales-data-analysis/
 ## 📊 Insights
 
 - Shampoo é o produto mais lucrativo devido ao maior preço
-- Pasta é o produto mais vendido em quantidade
 - MG e SP lideram o faturamento
 - RJ apresenta menor desempenho
 
