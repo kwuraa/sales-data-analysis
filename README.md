@@ -1,11 +1,13 @@
 # 📊 Sales Data Analysis
 
 ## 📌 Sobre o projeto
+
 Este projeto tem como objetivo analisar dados de vendas utilizando SQL, com foco em gerar insights para apoiar a tomada de decisão de negócio.
 
 ---
 
 ## 🎯 Objetivos
+
 - Analisar o desempenho de vendas
 - Identificar produtos mais vendidos
 - Avaliar faturamento por produto e cidade
@@ -14,6 +16,7 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL, com foco
 ---
 
 ## 🧠 Tecnologias utilizadas
+
 - SQL
 - SQLite
 - Excel / Power BI (opcional)
@@ -21,9 +24,12 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL, com foco
 ---
 
 ## 📂 Estrutura do projeto
+
 ```
 sales-data-analysis/
 │
+├── docs/
+│   └── dashboard.png
 ├── sql/
 │   ├── analysis_queries.sql             # Consultas de análise
 │   ├── create_tables.sql                # Criação das tabelas
@@ -37,13 +43,13 @@ sales-data-analysis/
 
 ## 📊 Estrutura dos dados
 
-| Coluna   | Descrição |
-|----------|----------|
-| id       | ID da venda |
-| product  | Produto |
-| city     | Cidade |
+| Coluna   | Descrição          |
+| -------- | ------------------ |
+| id       | ID da venda        |
+| product  | Produto            |
+| city     | Cidade             |
 | quantity | Quantidade vendida |
-| price    | Preço unitário |
+| price    | Preço unitário     |
 
 ---
 
@@ -71,6 +77,12 @@ sales-data-analysis/
 - Produto mais lucrativo: **Shampoo**
 - Cidade com maior volume de vendas: **SP**
 - Cidade com maior faturamento: **SP**
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](docs/dashboard.png)
 
 ---
 
@@ -128,4 +140,5 @@ ORDER BY faturamento DESC;
 ---
 
 ## 💼 Autor
+
 Matheus Morais Kawamura
