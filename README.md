@@ -86,6 +86,15 @@ sales-data-analysis/
 
 ---
 
+## 📊 Insights
+
+- Shampoo é o produto mais lucrativo devido ao maior preço
+- Pasta é o produto mais vendido em quantidade
+- MG e SP lideram o faturamento
+- RJ apresenta menor desempenho
+
+---
+
 ## 📈 Análises realizadas
 
 - Contagem de registros (`COUNT`)
