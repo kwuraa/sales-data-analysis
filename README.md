@@ -75,8 +75,8 @@ sales-data-analysis/
 - Ticket médio: **R$ 58,25**
 - Produto mais vendido: **Pasta**
 - Produto mais lucrativo: **Shampoo**
-- Cidade com maior volume de vendas: **SP**
-- Cidade com maior faturamento: **SP**
+- Cidade com maior volume de vendas: **MG**
+- Cidade com maior faturamento: **MG**
 
 ---
 
